@@ -13,3 +13,7 @@ __pycache__/
 
 # Per-repo runtime workspace (when the plugin runs inside a host repo)
 .quantum-lens/
+
+# CLAUDE
+.mcp.json
+*/settings.json
